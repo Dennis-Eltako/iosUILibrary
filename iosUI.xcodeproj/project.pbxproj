@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		951877E62402A528006B973C /* iosUI.h in Headers */ = {isa = PBXBuildFile; fileRef = 951877E42402A528006B973C /* iosUI.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		951878132402C42F006B973C /* LightControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951878122402C42F006B973C /* LightControl.swift */; };
+		951878132402C42F006B973C /* LightControl.swift in Resources */ = {isa = PBXBuildFile; fileRef = 951878122402C42F006B973C /* LightControl.swift */; };
 		951878152402C448006B973C /* LightControlView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 951878142402C448006B973C /* LightControlView.xib */; };
 /* End PBXBuildFile section */
 
@@ -129,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				951878152402C448006B973C /* LightControlView.xib in Resources */,
+				951878132402C42F006B973C /* LightControl.swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				951878132402C42F006B973C /* LightControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
